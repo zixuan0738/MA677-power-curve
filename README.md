@@ -1,0 +1,1 @@
+# MA677-power-curve
